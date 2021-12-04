@@ -1,0 +1,9 @@
+.lead__subtitle {
+    max-width: 62.5%;
+    font-size: 1.875rem;
+    line-height: 36px;
+    font-weight: 400;
+    text-align: center;
+    padding: 0;
+    margin: 0 0 56px 0;
+}
