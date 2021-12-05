@@ -1,7 +1,15 @@
 .header__lang-links {
     list-style: none;
     padding: 0;
-    width: 77px;
+    margin: 0;
+    min-width: 77px;
     display: flex;
     justify-content: space-between;
+    align-items: end;
+}
+
+@media screen and (max-width: 568px) {
+    .header__lang-links {
+        min-width: 62px;
+    }
 }

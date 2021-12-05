@@ -1,7 +1,27 @@
 .header {
-    height: 52px;
-    width: 928px;
-    color: #ffffff;
+    min-height: 52px;
     display: flex;
     justify-content: space-between;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0 auto 56px;
+}
+
+@media screen and (max-width: 1140px) {
+    .header {
+        margin-bottom: 48px;
+    }
+ }
+ 
+ @media screen and (max-width: 984px) {
+    .header {
+         margin-bottom: 48px;
+    } 
+ }
+
+@media screen and (max-width: 568px) {
+    .header {
+        min-height: 42px;
+        margin-bottom: 48px;
+    }
 }
