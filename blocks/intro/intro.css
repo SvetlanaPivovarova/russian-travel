@@ -1,8 +1,15 @@
 .intro {
-    color: #fff;
     display: flex;
     flex-direction: column;
     align-content: left;
-    width: 67,38%;
-    padding: 0 286px 0 48px;
+    max-width: 100%;
+    padding-left: 48px;
+    box-sizing: border-box;
+    margin: 0;
 }
+ 
+ @media screen and (max-width: 568px) {
+     .intro {
+        padding-left: 16px;
+     }
+ }
