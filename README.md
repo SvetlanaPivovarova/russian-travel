@@ -24,3 +24,4 @@
 
 **Доделать**
 Класс page__content у  header и cover пока остается пустым
+photo-grid__image перепроверить
