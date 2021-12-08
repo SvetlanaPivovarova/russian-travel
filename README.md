@@ -23,6 +23,7 @@
 * псевдоклассы.
 
 **Размещение проекта**
-* [Ссылка на сайт](#)
+* [Ссылка на сайт](https://svetlanapivovarova.github.io/russian-travel/index.html)
+* 
 
 
