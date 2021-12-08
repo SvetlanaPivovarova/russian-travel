@@ -4,6 +4,12 @@
     text-decoration: none;
     color: #ffffff;
     padding: 0;
+    opacity: 1;
+    transition: opacity .3s ease;
+}
+
+.header__lang-link:hover {
+    opacity: .8;
 }
 
 @media screen and (max-width: 568px) {
