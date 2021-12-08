@@ -23,7 +23,5 @@
 * псевдоклассы.
 
 **Размещение проекта**
-* [Ссылка на сайт](https://svetlanapivovarova.github.io/russian-travel/index.html)
-* 
-
+* [Путешествие по России](https://svetlanapivovarova.github.io/russian-travel/index.html)
 
