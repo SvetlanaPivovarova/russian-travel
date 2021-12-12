@@ -8,6 +8,12 @@
 .footer__list-item:last-of-type {
     margin-right: 0;
 }
+@media screen and (max-width: 640px) {
+    .footer__list-item {
+        margin-right: 9px;
+    }
+}
+
 
 @media screen and (max-width: 568px) {
     .footer__list-item {
