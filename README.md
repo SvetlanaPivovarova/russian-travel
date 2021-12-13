@@ -24,4 +24,3 @@
 
 **Размещение проекта**
 * [Путешествие по России](https://svetlanapivovarova.github.io/russian-travel/index.html)
-

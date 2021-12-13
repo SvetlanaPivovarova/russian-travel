@@ -12,16 +12,9 @@
         margin-bottom: 48px;
     }
  }
- 
- @media screen and (max-width: 984px) {
-    .header {
-         margin-bottom: 48px;
-    } 
- }
 
 @media screen and (max-width: 568px) {
     .header {
         min-height: 42px;
-        margin-bottom: 48px;
     }
 }

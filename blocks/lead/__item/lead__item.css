@@ -6,16 +6,10 @@
     .lead__item {
          margin-top: 28px;
     }
- }
+}
  
- @media screen and (max-width: 984px) {
-    .lead__item {
-         margin-top: 28px;
-    } 
- }
- 
- @media screen and (max-width: 568px) {
+@media screen and (max-width: 568px) {
      .lead__item {
          margin-top: 20px;
      }
- }
+}

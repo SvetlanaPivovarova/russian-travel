@@ -1,9 +1,0 @@
-.intro__article {
-    margin: 0 0 33px 0;
-}
-
-@media screen and (max-width: 568px) {
-    .intro__article {
-       margin-bottom: 34px;
-    }
-}

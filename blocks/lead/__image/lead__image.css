@@ -2,24 +2,23 @@
     max-height: 615px;
     max-width: 100%;
     object-fit: cover;
+    margin-bottom: 8px;
 }
 
 @media screen and (max-width: 1140px) {
     .lead__image {
         max-height: 580px;
     }
- }
+}
  
- @media screen and (max-width: 984px) {
+@media screen and (max-width: 984px) {
     .lead__image {
         max-height: 480px;
-        max-width: 100%;
     } 
- }
+}
  
- @media screen and (max-width: 568px) {
+@media screen and (max-width: 568px) {
      .lead__image {
          max-height: 200px;
-         max-width: 100%;
      }
- }
+}
