@@ -1,27 +1,14 @@
 .footer__list-item {
     list-style: none;
+    display: flex;
+    justify-content: space-between;
     padding: 0;
-    margin: 0 18px 0 0;
+    margin: 0;
 }
-
-
-.footer__list-item:last-of-type {
-    margin-right: 0;
-}
-@media screen and (max-width: 640px) {
-    .footer__list-item {
-        margin-right: 9px;
-    }
-}
-
 
 @media screen and (max-width: 568px) {
     .footer__list-item {
-        margin-right: 0;
-        margin-bottom: 32px;
+        flex-direction: column;
     }
 
-    .footer__list-item:last-of-type {
-        margin-bottom: 0;
-    }
 }

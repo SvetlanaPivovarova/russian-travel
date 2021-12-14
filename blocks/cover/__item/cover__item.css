@@ -1,5 +1,6 @@
 .cover__item {
     min-height: 740px;
+    width: 100%;
     color: #fff;
     text-decoration: none;
     box-sizing: border-box;

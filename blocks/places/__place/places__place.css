@@ -1,6 +1,6 @@
 .places__place {
     display: grid;
-    grid-template-columns: minmax(320px, 460px) minmax(163px, 484px);
+    grid-template-columns: minmax(320px, 460px) minmax(280px, 484px);
     grid-template-rows: max-content minmax(min-content, 460px);
     gap: 48px 40px;
     margin: 0 0 80px 0;
@@ -24,9 +24,9 @@
     } 
  }
  
- @media screen and (max-width: 568px) {
+ @media screen and (max-width: 666px) {
      .places__place {
-        grid-template-columns: repeat(1, minmax(min-content, max-content));
+        grid-template-columns: repeat(1, minmax(320px, 666px));
         grid-template-rows: max-content;
         row-gap: 32px;
         margin-bottom: 50px;

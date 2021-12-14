@@ -4,11 +4,18 @@
     letter-spacing: 1.5px;
     text-transform: uppercase;
     text-align: start;
+    padding: 0;
     margin: 0;
 }
 
+@media screen and (max-width: 984px) {
+    .lead__caption {
+        margin-left: 24px;
+    } 
+ }
+
 @media screen and (max-width: 568px) {
     .lead__caption {
-        padding-left: 16px;
+        margin-left: 16px;
     }
 }
