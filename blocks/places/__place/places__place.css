@@ -24,9 +24,9 @@
     } 
  }
  
- @media screen and (max-width: 666px) {
+ @media screen and (max-width: 676px) {
      .places__place {
-        grid-template-columns: repeat(1, minmax(320px, 666px));
+        grid-template-columns: repeat(1, minmax(320px, 676px));
         grid-template-rows: max-content;
         row-gap: 32px;
         margin-bottom: 50px;
